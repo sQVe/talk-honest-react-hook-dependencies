@@ -1,7 +1,3 @@
-# 👋 Hey, I'm Oskar
-
-<img title="a title" alt="Alt text" src="./assets/me.jpg" style="height: 25vh; border: 4px solid white; border-radius:100%;">
-
 # 🪝 Honest React Hook Dependencies
 
 # 📢 Context
